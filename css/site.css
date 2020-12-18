@@ -10,7 +10,9 @@ body {
 .jumbotron-detail-apple-pie {
   background: url("../images/products/applepie.jpg") no-repeat fixed;
 }
-
+.jumbotron-other {
+  background: url(../images/carousel3.jpg) no-repeat fixed;
+}
 .jumbotron {
   height: 40vh;
   background-size: cover;
